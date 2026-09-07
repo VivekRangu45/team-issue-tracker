@@ -1,0 +1,501 @@
+description,category,priority
+Users can bypass the dashboard authentication step.,SECURITY,HIGH
+Users cannot import because of an exception in the settings module.,BUG,CRITICAL
+Memory leak suspected in the login background job.,PERFORMANCE,MEDIUM
+SQL injection is possible in the upload search field.,SECURITY,MEDIUM
+Need assistance with import configuration.,OTHER,LOW
+It would be great if users could upload.,FEATURE,LOW
+Update the README to include instructions for payment.,DOCUMENTATION,MEDIUM
+The API documentation for report is outdated.,DOCUMENTATION,MEDIUM
+Question about the export implementation.,OTHER,LOW
+Fix the typo in the login section of the user guide.,DOCUMENTATION,LOW
+Miscellaneous updates to the dashboard repo.,OTHER,LOW
+High CPU usage observed when running upload.,PERFORMANCE,MEDIUM
+It would be great if users could upload.,FEATURE,HIGH
+The settings modal is misaligned on mobile devices.,UI,MEDIUM
+Please review the export deployment plan.,OTHER,LOW
+Optimize the database query for search retrieval.,PERFORMANCE,MEDIUM
+We need a way to export login to PDF.,FEATURE,MEDIUM
+Users cannot login because of an exception in the search module.,BUG,HIGH
+Vulnerability found in the login dependency.,SECURITY,HIGH
+The login modal is misaligned on mobile devices.,UI,CRITICAL
+Ensure upload is properly sanitized before rendering.,SECURITY,CRITICAL
+SQL injection is possible in the payment search field.,SECURITY,HIGH
+Create a troubleshooting guide for import.,DOCUMENTATION,CRITICAL
+It would be great if users could report.,FEATURE,LOW
+We need a way to export report to PDF.,FEATURE,LOW
+There is a bug in the report calculation.,BUG,CRITICAL
+Users cannot settings because of an exception in the import module.,BUG,MEDIUM
+SQL injection is possible in the import search field.,SECURITY,CRITICAL
+Text is overlapping in the search component.,UI,LOW
+Users cannot search because of an exception in the payment module.,BUG,CRITICAL
+Change the color of the upload button to match the brand.,UI,LOW
+General feedback regarding the search workflow.,OTHER,LOW
+The search feature crashes when I try to settings.,BUG,HIGH
+Fix the typo in the report section of the user guide.,DOCUMENTATION,LOW
+dashboard button does not respond when clicked.,BUG,MEDIUM
+High CPU usage observed when running payment.,PERFORMANCE,HIGH
+Images on the profile screen are too large and slow down the app.,PERFORMANCE,HIGH
+Improve the contrast of the payment text for accessibility.,UI,LOW
+Images on the report screen are too large and slow down the app.,PERFORMANCE,CRITICAL
+Question about the report implementation.,OTHER,CRITICAL
+It would be great if users could settings.,FEATURE,MEDIUM
+Getting a 500 internal server error on the login page.,BUG,LOW
+Update the README to include instructions for settings.,DOCUMENTATION,MEDIUM
+Ensure import is properly sanitized before rendering.,SECURITY,CRITICAL
+Tokens are exposed in the profile logs.,SECURITY,LOW
+Vulnerability found in the dashboard dependency.,SECURITY,CRITICAL
+Question about the profile implementation.,OTHER,LOW
+The search feature crashes when I try to settings.,BUG,LOW
+We need a way to export upload to PDF.,FEATURE,MEDIUM
+Memory leak suspected in the payment background job.,PERFORMANCE,HIGH
+Fix the typo in the login section of the user guide.,DOCUMENTATION,MEDIUM
+Fix the typo in the upload section of the user guide.,DOCUMENTATION,LOW
+Update the README to include instructions for upload.,DOCUMENTATION,MEDIUM
+It would be great if users could dashboard.,FEATURE,LOW
+Users cannot upload because of an exception in the payment module.,BUG,MEDIUM
+Ensure login is properly sanitized before rendering.,SECURITY,HIGH
+There is a bug in the settings calculation.,BUG,CRITICAL
+Vulnerability found in the import dependency.,SECURITY,CRITICAL
+Please add a new settings to the dashboard.,FEATURE,MEDIUM
+Add a settings button on the main screen.,FEATURE,MEDIUM
+settings button does not respond when clicked.,BUG,CRITICAL
+General feedback regarding the report workflow.,OTHER,MEDIUM
+The API documentation for export is outdated.,DOCUMENTATION,MEDIUM
+The API documentation for login is outdated.,DOCUMENTATION,MEDIUM
+Fix the typo in the export section of the user guide.,DOCUMENTATION,MEDIUM
+Improve the contrast of the settings text for accessibility.,UI,MEDIUM
+The report page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Users can bypass the search authentication step.,SECURITY,HIGH
+General feedback regarding the report workflow.,OTHER,MEDIUM
+The settings page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Memory leak suspected in the login background job.,PERFORMANCE,MEDIUM
+Vulnerability found in the search dependency.,SECURITY,CRITICAL
+Optimize the database query for import retrieval.,PERFORMANCE,HIGH
+General feedback regarding the export workflow.,OTHER,MEDIUM
+Question about the import implementation.,OTHER,MEDIUM
+We need a way to export export to PDF.,FEATURE,LOW
+Update the README to include instructions for payment.,DOCUMENTATION,MEDIUM
+Ensure settings is properly sanitized before rendering.,SECURITY,CRITICAL
+Please add a new settings to the dashboard.,FEATURE,LOW
+High CPU usage observed when running dashboard.,PERFORMANCE,HIGH
+SQL injection is possible in the search search field.,SECURITY,HIGH
+It would be great if users could export.,FEATURE,MEDIUM
+Add a tutorial on how to use the export feature.,DOCUMENTATION,LOW
+We need a way to export upload to PDF.,FEATURE,MEDIUM
+Memory leak suspected in the upload background job.,PERFORMANCE,MEDIUM
+General feedback regarding the search workflow.,OTHER,MEDIUM
+Add a tutorial on how to use the dashboard feature.,DOCUMENTATION,MEDIUM
+High CPU usage observed when running settings.,PERFORMANCE,HIGH
+Need assistance with upload configuration.,OTHER,MEDIUM
+Update the README to include instructions for dashboard.,DOCUMENTATION,LOW
+Users cannot upload because of an exception in the payment module.,BUG,CRITICAL
+Vulnerability found in the report dependency.,SECURITY,CRITICAL
+Please review the payment deployment plan.,OTHER,LOW
+There is a bug in the import calculation.,BUG,HIGH
+SQL injection is possible in the search search field.,SECURITY,HIGH
+Vulnerability found in the report dependency.,SECURITY,MEDIUM
+Implement integration with payment for better workflows.,FEATURE,HIGH
+The payment feature crashes when I try to dashboard.,BUG,CRITICAL
+It would be great if users could payment.,FEATURE,HIGH
+Users can bypass the import authentication step.,SECURITY,CRITICAL
+Miscellaneous updates to the search repo.,OTHER,LOW
+Users cannot payment because of an exception in the search module.,BUG,CRITICAL
+Update the README to include instructions for payment.,DOCUMENTATION,LOW
+Memory leak suspected in the profile background job.,PERFORMANCE,HIGH
+Vulnerability found in the payment dependency.,SECURITY,HIGH
+Miscellaneous updates to the profile repo.,OTHER,MEDIUM
+There is a bug in the import calculation.,BUG,MEDIUM
+Images on the settings screen are too large and slow down the app.,PERFORMANCE,HIGH
+Update the README to include instructions for export.,DOCUMENTATION,LOW
+Memory leak suspected in the report background job.,PERFORMANCE,MEDIUM
+Ensure profile is properly sanitized before rendering.,SECURITY,HIGH
+Question about the login implementation.,OTHER,LOW
+Text is overlapping in the login component.,UI,LOW
+Implement integration with upload for better workflows.,FEATURE,LOW
+Optimize the database query for payment retrieval.,PERFORMANCE,MEDIUM
+Implement integration with search for better workflows.,FEATURE,MEDIUM
+Tokens are exposed in the login logs.,SECURITY,CRITICAL
+The report modal is misaligned on mobile devices.,UI,LOW
+It would be great if users could profile.,FEATURE,MEDIUM
+Text is overlapping in the upload component.,UI,MEDIUM
+The import animation is jittery.,UI,MEDIUM
+General feedback regarding the settings workflow.,OTHER,LOW
+Images on the payment screen are too large and slow down the app.,PERFORMANCE,MEDIUM
+Question about the settings implementation.,OTHER,LOW
+It would be great if users could login.,FEATURE,LOW
+Add a settings button on the main screen.,FEATURE,HIGH
+There is a bug in the dashboard calculation.,BUG,HIGH
+Ensure export is properly sanitized before rendering.,SECURITY,HIGH
+Please add a new login to the dashboard.,FEATURE,MEDIUM
+Create a troubleshooting guide for export.,DOCUMENTATION,MEDIUM
+Users cannot export because of an exception in the payment module.,BUG,CRITICAL
+It would be great if users could settings.,FEATURE,MEDIUM
+Please add a new payment to the dashboard.,FEATURE,MEDIUM
+Please add a new dashboard to the dashboard.,FEATURE,LOW
+Memory leak suspected in the dashboard background job.,PERFORMANCE,HIGH
+We need a way to export report to PDF.,FEATURE,MEDIUM
+Update the README to include instructions for report.,DOCUMENTATION,LOW
+Tokens are exposed in the search logs.,SECURITY,CRITICAL
+Optimize the database query for report retrieval.,PERFORMANCE,MEDIUM
+Fix the typo in the export section of the user guide.,DOCUMENTATION,MEDIUM
+Please add a new login to the dashboard.,FEATURE,MEDIUM
+Users can bypass the payment authentication step.,SECURITY,HIGH
+General feedback regarding the export workflow.,OTHER,LOW
+High CPU usage observed when running search.,PERFORMANCE,HIGH
+The upload animation is jittery.,UI,MEDIUM
+The report page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Miscellaneous updates to the login repo.,OTHER,LOW
+The API documentation for dashboard is outdated.,DOCUMENTATION,LOW
+Memory leak suspected in the upload background job.,PERFORMANCE,MEDIUM
+export button does not respond when clicked.,BUG,CRITICAL
+Implement integration with profile for better workflows.,FEATURE,MEDIUM
+Vulnerability found in the settings dependency.,SECURITY,HIGH
+Optimize the database query for export retrieval.,PERFORMANCE,HIGH
+The profile modal is misaligned on mobile devices.,UI,MEDIUM
+Improve the contrast of the dashboard text for accessibility.,UI,MEDIUM
+The settings page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Users can bypass the dashboard authentication step.,SECURITY,LOW
+It would be great if users could upload.,FEATURE,LOW
+Miscellaneous updates to the search repo.,OTHER,MEDIUM
+Miscellaneous updates to the search repo.,OTHER,LOW
+The export feature crashes when I try to login.,BUG,HIGH
+Add a tutorial on how to use the profile feature.,DOCUMENTATION,LOW
+Getting a 500 internal server error on the settings page.,BUG,CRITICAL
+settings button does not respond when clicked.,BUG,MEDIUM
+Need assistance with search configuration.,OTHER,MEDIUM
+Create a troubleshooting guide for dashboard.,DOCUMENTATION,MEDIUM
+Add a payment button on the main screen.,FEATURE,LOW
+export button does not respond when clicked.,BUG,MEDIUM
+Update the README to include instructions for export.,DOCUMENTATION,MEDIUM
+Vulnerability found in the report dependency.,SECURITY,CRITICAL
+The report feature crashes when I try to import.,BUG,MEDIUM
+Users can bypass the profile authentication step.,SECURITY,CRITICAL
+It would be great if users could upload.,FEATURE,LOW
+SQL injection is possible in the payment search field.,SECURITY,CRITICAL
+SQL injection is possible in the search search field.,SECURITY,HIGH
+Ensure settings is properly sanitized before rendering.,SECURITY,HIGH
+The API documentation for settings is outdated.,DOCUMENTATION,MEDIUM
+We need a way to export payment to PDF.,FEATURE,CRITICAL
+Update the README to include instructions for dashboard.,DOCUMENTATION,MEDIUM
+Improve the contrast of the payment text for accessibility.,UI,MEDIUM
+Need assistance with upload configuration.,OTHER,LOW
+The import feature crashes when I try to payment.,BUG,MEDIUM
+dashboard button does not respond when clicked.,BUG,MEDIUM
+Users can bypass the settings authentication step.,SECURITY,HIGH
+Tokens are exposed in the upload logs.,SECURITY,CRITICAL
+Miscellaneous updates to the profile repo.,OTHER,LOW
+The API documentation for settings is outdated.,DOCUMENTATION,LOW
+Users cannot dashboard because of an exception in the settings module.,BUG,HIGH
+Improve the contrast of the settings text for accessibility.,UI,LOW
+Miscellaneous updates to the search repo.,OTHER,MEDIUM
+There is a bug in the import calculation.,BUG,HIGH
+Users can bypass the export authentication step.,SECURITY,HIGH
+Please review the settings deployment plan.,OTHER,LOW
+General feedback regarding the report workflow.,OTHER,MEDIUM
+Create a troubleshooting guide for import.,DOCUMENTATION,MEDIUM
+Text is overlapping in the settings component.,UI,LOW
+Implement integration with payment for better workflows.,FEATURE,HIGH
+Ensure profile is properly sanitized before rendering.,SECURITY,LOW
+It would be great if users could settings.,FEATURE,MEDIUM
+Implement integration with payment for better workflows.,FEATURE,LOW
+Tokens are exposed in the settings logs.,SECURITY,HIGH
+Text is overlapping in the export component.,UI,MEDIUM
+Implement integration with upload for better workflows.,FEATURE,MEDIUM
+Please review the export deployment plan.,OTHER,MEDIUM
+The API documentation for search is outdated.,DOCUMENTATION,LOW
+It would be great if users could export.,FEATURE,MEDIUM
+Optimize the database query for report retrieval.,PERFORMANCE,HIGH
+Tokens are exposed in the report logs.,SECURITY,HIGH
+The payment feature crashes when I try to search.,BUG,MEDIUM
+Please add a new login to the dashboard.,FEATURE,LOW
+Fix the typo in the login section of the user guide.,DOCUMENTATION,LOW
+Text is overlapping in the payment component.,UI,LOW
+Change the color of the settings button to match the brand.,UI,LOW
+The import feature crashes when I try to login.,BUG,HIGH
+Need assistance with export configuration.,OTHER,LOW
+Change the color of the payment button to match the brand.,UI,MEDIUM
+Images on the report screen are too large and slow down the app.,PERFORMANCE,MEDIUM
+Change the color of the settings button to match the brand.,UI,MEDIUM
+Text is overlapping in the profile component.,UI,LOW
+Fix the typo in the search section of the user guide.,DOCUMENTATION,LOW
+Add a search button on the main screen.,FEATURE,HIGH
+The export modal is misaligned on mobile devices.,UI,LOW
+Memory leak suspected in the import background job.,PERFORMANCE,MEDIUM
+Improve the contrast of the export text for accessibility.,UI,MEDIUM
+Please review the report deployment plan.,OTHER,LOW
+We need a way to export upload to PDF.,FEATURE,LOW
+Vulnerability found in the export dependency.,SECURITY,HIGH
+export button does not respond when clicked.,BUG,CRITICAL
+Fix the typo in the login section of the user guide.,DOCUMENTATION,MEDIUM
+Images on the import screen are too large and slow down the app.,PERFORMANCE,LOW
+Text is overlapping in the dashboard component.,UI,LOW
+Need assistance with payment configuration.,OTHER,MEDIUM
+Create a troubleshooting guide for search.,DOCUMENTATION,MEDIUM
+SQL injection is possible in the login search field.,SECURITY,HIGH
+Vulnerability found in the report dependency.,SECURITY,HIGH
+SQL injection is possible in the search search field.,SECURITY,HIGH
+Memory leak suspected in the search background job.,PERFORMANCE,MEDIUM
+General feedback regarding the profile workflow.,OTHER,MEDIUM
+The settings animation is jittery.,UI,LOW
+The import animation is jittery.,UI,LOW
+The dashboard animation is jittery.,UI,MEDIUM
+Optimize the database query for dashboard retrieval.,PERFORMANCE,MEDIUM
+It would be great if users could import.,FEATURE,LOW
+There is a bug in the search calculation.,BUG,HIGH
+Need assistance with export configuration.,OTHER,HIGH
+Please add a new upload to the dashboard.,FEATURE,MEDIUM
+Update the README to include instructions for dashboard.,DOCUMENTATION,MEDIUM
+It would be great if users could dashboard.,FEATURE,LOW
+The profile feature crashes when I try to import.,BUG,HIGH
+The API documentation for import is outdated.,DOCUMENTATION,MEDIUM
+It would be great if users could export.,FEATURE,MEDIUM
+Ensure import is properly sanitized before rendering.,SECURITY,HIGH
+Question about the search implementation.,OTHER,MEDIUM
+Question about the upload implementation.,OTHER,MEDIUM
+SQL injection is possible in the import search field.,SECURITY,CRITICAL
+Improve the contrast of the payment text for accessibility.,UI,LOW
+It would be great if users could upload.,FEATURE,HIGH
+General feedback regarding the report workflow.,OTHER,LOW
+Users can bypass the report authentication step.,SECURITY,CRITICAL
+Please review the profile deployment plan.,OTHER,MEDIUM
+Add a payment button on the main screen.,FEATURE,CRITICAL
+Need assistance with report configuration.,OTHER,MEDIUM
+Getting a 500 internal server error on the login page.,BUG,CRITICAL
+Add a tutorial on how to use the login feature.,DOCUMENTATION,MEDIUM
+Ensure search is properly sanitized before rendering.,SECURITY,HIGH
+There is a bug in the upload calculation.,BUG,HIGH
+Images on the login screen are too large and slow down the app.,PERFORMANCE,HIGH
+Change the color of the search button to match the brand.,UI,MEDIUM
+Add a report button on the main screen.,FEATURE,HIGH
+Please add a new export to the dashboard.,FEATURE,MEDIUM
+High CPU usage observed when running settings.,PERFORMANCE,MEDIUM
+Create a troubleshooting guide for payment.,DOCUMENTATION,LOW
+Tokens are exposed in the upload logs.,SECURITY,CRITICAL
+SQL injection is possible in the settings search field.,SECURITY,HIGH
+Images on the dashboard screen are too large and slow down the app.,PERFORMANCE,HIGH
+The export feature crashes when I try to settings.,BUG,CRITICAL
+Question about the report implementation.,OTHER,CRITICAL
+The login feature crashes when I try to payment.,BUG,MEDIUM
+Question about the export implementation.,OTHER,MEDIUM
+Question about the login implementation.,OTHER,MEDIUM
+Tokens are exposed in the login logs.,SECURITY,CRITICAL
+Improve the contrast of the settings text for accessibility.,UI,MEDIUM
+Users can bypass the profile authentication step.,SECURITY,CRITICAL
+Question about the settings implementation.,OTHER,LOW
+Users can bypass the import authentication step.,SECURITY,CRITICAL
+Users can bypass the export authentication step.,SECURITY,HIGH
+Implement integration with import for better workflows.,FEATURE,LOW
+The upload modal is misaligned on mobile devices.,UI,LOW
+Ensure login is properly sanitized before rendering.,SECURITY,CRITICAL
+Change the color of the upload button to match the brand.,UI,MEDIUM
+Users can bypass the upload authentication step.,SECURITY,CRITICAL
+Add a login button on the main screen.,FEATURE,LOW
+Images on the settings screen are too large and slow down the app.,PERFORMANCE,CRITICAL
+Question about the export implementation.,OTHER,MEDIUM
+It would be great if users could import.,FEATURE,MEDIUM
+Change the color of the search button to match the brand.,UI,LOW
+Optimize the database query for upload retrieval.,PERFORMANCE,MEDIUM
+There is a bug in the import calculation.,BUG,MEDIUM
+Miscellaneous updates to the login repo.,OTHER,CRITICAL
+Vulnerability found in the profile dependency.,SECURITY,CRITICAL
+We need a way to export export to PDF.,FEATURE,MEDIUM
+Update the README to include instructions for upload.,DOCUMENTATION,MEDIUM
+The report modal is misaligned on mobile devices.,UI,MEDIUM
+Add a tutorial on how to use the export feature.,DOCUMENTATION,LOW
+export button does not respond when clicked.,BUG,CRITICAL
+Images on the search screen are too large and slow down the app.,PERFORMANCE,HIGH
+Miscellaneous updates to the upload repo.,OTHER,LOW
+Ensure login is properly sanitized before rendering.,SECURITY,CRITICAL
+Getting a 500 internal server error on the report page.,BUG,HIGH
+Users can bypass the import authentication step.,SECURITY,HIGH
+Getting a 500 internal server error on the report page.,BUG,MEDIUM
+Optimize the database query for dashboard retrieval.,PERFORMANCE,MEDIUM
+Tokens are exposed in the search logs.,SECURITY,HIGH
+SQL injection is possible in the upload search field.,SECURITY,HIGH
+Users cannot profile because of an exception in the payment module.,BUG,HIGH
+Miscellaneous updates to the profile repo.,OTHER,LOW
+Text is overlapping in the import component.,UI,LOW
+The settings feature crashes when I try to login.,BUG,HIGH
+Text is overlapping in the search component.,UI,MEDIUM
+The profile modal is misaligned on mobile devices.,UI,MEDIUM
+Add a tutorial on how to use the search feature.,DOCUMENTATION,LOW
+Users cannot profile because of an exception in the search module.,BUG,CRITICAL
+Fix the typo in the profile section of the user guide.,DOCUMENTATION,LOW
+SQL injection is possible in the settings search field.,SECURITY,HIGH
+Update the README to include instructions for login.,DOCUMENTATION,HIGH
+Question about the login implementation.,OTHER,LOW
+We need a way to export settings to PDF.,FEATURE,MEDIUM
+The API documentation for payment is outdated.,DOCUMENTATION,MEDIUM
+Miscellaneous updates to the search repo.,OTHER,HIGH
+Vulnerability found in the search dependency.,SECURITY,CRITICAL
+Please add a new export to the dashboard.,FEATURE,MEDIUM
+The upload animation is jittery.,UI,MEDIUM
+Update the README to include instructions for export.,DOCUMENTATION,MEDIUM
+Images on the search screen are too large and slow down the app.,PERFORMANCE,MEDIUM
+The import feature crashes when I try to upload.,BUG,MEDIUM
+Users can bypass the search authentication step.,SECURITY,HIGH
+login button does not respond when clicked.,BUG,MEDIUM
+Users cannot settings because of an exception in the settings module.,BUG,HIGH
+SQL injection is possible in the export search field.,SECURITY,CRITICAL
+Optimize the database query for login retrieval.,PERFORMANCE,MEDIUM
+Add a payment button on the main screen.,FEATURE,MEDIUM
+Miscellaneous updates to the payment repo.,OTHER,MEDIUM
+The upload modal is misaligned on mobile devices.,UI,LOW
+Memory leak suspected in the search background job.,PERFORMANCE,HIGH
+General feedback regarding the payment workflow.,OTHER,MEDIUM
+Create a troubleshooting guide for upload.,DOCUMENTATION,MEDIUM
+Vulnerability found in the upload dependency.,SECURITY,HIGH
+General feedback regarding the search workflow.,OTHER,LOW
+Getting a 500 internal server error on the upload page.,BUG,CRITICAL
+Update the README to include instructions for login.,DOCUMENTATION,LOW
+It would be great if users could import.,FEATURE,HIGH
+Memory leak suspected in the login background job.,PERFORMANCE,MEDIUM
+Change the color of the profile button to match the brand.,UI,MEDIUM
+Add a tutorial on how to use the upload feature.,DOCUMENTATION,LOW
+Please review the payment deployment plan.,OTHER,MEDIUM
+Optimize the database query for payment retrieval.,PERFORMANCE,HIGH
+There is a bug in the search calculation.,BUG,CRITICAL
+SQL injection is possible in the export search field.,SECURITY,CRITICAL
+The API documentation for export is outdated.,DOCUMENTATION,LOW
+We need a way to export dashboard to PDF.,FEATURE,MEDIUM
+Ensure import is properly sanitized before rendering.,SECURITY,CRITICAL
+Please add a new upload to the dashboard.,FEATURE,LOW
+It would be great if users could login.,FEATURE,HIGH
+Add a tutorial on how to use the export feature.,DOCUMENTATION,MEDIUM
+General feedback regarding the export workflow.,OTHER,MEDIUM
+Miscellaneous updates to the upload repo.,OTHER,MEDIUM
+SQL injection is possible in the dashboard search field.,SECURITY,CRITICAL
+The report page takes over 10 seconds to load.,PERFORMANCE,HIGH
+We need a way to export login to PDF.,FEATURE,MEDIUM
+The API documentation for export is outdated.,DOCUMENTATION,LOW
+Miscellaneous updates to the search repo.,OTHER,MEDIUM
+Vulnerability found in the search dependency.,SECURITY,HIGH
+The settings animation is jittery.,UI,LOW
+High CPU usage observed when running profile.,PERFORMANCE,MEDIUM
+The API documentation for login is outdated.,DOCUMENTATION,MEDIUM
+Update the README to include instructions for report.,DOCUMENTATION,MEDIUM
+Improve the contrast of the import text for accessibility.,UI,LOW
+Memory leak suspected in the export background job.,PERFORMANCE,HIGH
+It would be great if users could login.,FEATURE,HIGH
+General feedback regarding the search workflow.,OTHER,MEDIUM
+Update the README to include instructions for profile.,DOCUMENTATION,LOW
+General feedback regarding the report workflow.,OTHER,LOW
+Add a tutorial on how to use the report feature.,DOCUMENTATION,MEDIUM
+Fix the typo in the search section of the user guide.,DOCUMENTATION,MEDIUM
+The API documentation for settings is outdated.,DOCUMENTATION,LOW
+Fix the typo in the profile section of the user guide.,DOCUMENTATION,LOW
+The dashboard page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Change the color of the login button to match the brand.,UI,MEDIUM
+Please add a new profile to the dashboard.,FEATURE,MEDIUM
+Memory leak suspected in the login background job.,PERFORMANCE,HIGH
+Need assistance with settings configuration.,OTHER,LOW
+Users can bypass the report authentication step.,SECURITY,CRITICAL
+Users cannot upload because of an exception in the upload module.,BUG,CRITICAL
+The payment modal is misaligned on mobile devices.,UI,LOW
+profile button does not respond when clicked.,BUG,HIGH
+Vulnerability found in the settings dependency.,SECURITY,HIGH
+SQL injection is possible in the export search field.,SECURITY,HIGH
+Tokens are exposed in the dashboard logs.,SECURITY,HIGH
+The login modal is misaligned on mobile devices.,UI,MEDIUM
+Memory leak suspected in the upload background job.,PERFORMANCE,HIGH
+Getting a 500 internal server error on the settings page.,BUG,HIGH
+Miscellaneous updates to the upload repo.,OTHER,LOW
+Users cannot upload because of an exception in the import module.,BUG,HIGH
+The API documentation for export is outdated.,DOCUMENTATION,MEDIUM
+Ensure login is properly sanitized before rendering.,SECURITY,CRITICAL
+The dashboard page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Vulnerability found in the import dependency.,SECURITY,CRITICAL
+Miscellaneous updates to the search repo.,OTHER,MEDIUM
+Users can bypass the import authentication step.,SECURITY,CRITICAL
+Add a profile button on the main screen.,FEATURE,MEDIUM
+Improve the contrast of the profile text for accessibility.,UI,HIGH
+Please review the export deployment plan.,OTHER,LOW
+SQL injection is possible in the upload search field.,SECURITY,CRITICAL
+Vulnerability found in the upload dependency.,SECURITY,CRITICAL
+Please review the upload deployment plan.,OTHER,LOW
+Miscellaneous updates to the upload repo.,OTHER,LOW
+Memory leak suspected in the payment background job.,PERFORMANCE,HIGH
+We need a way to export upload to PDF.,FEATURE,MEDIUM
+Add a tutorial on how to use the login feature.,DOCUMENTATION,MEDIUM
+The dashboard animation is jittery.,UI,CRITICAL
+Improve the contrast of the export text for accessibility.,UI,MEDIUM
+Improve the contrast of the export text for accessibility.,UI,LOW
+Optimize the database query for report retrieval.,PERFORMANCE,MEDIUM
+There is a bug in the payment calculation.,BUG,HIGH
+Add a tutorial on how to use the export feature.,DOCUMENTATION,LOW
+Create a troubleshooting guide for export.,DOCUMENTATION,MEDIUM
+Please add a new search to the dashboard.,FEATURE,HIGH
+It would be great if users could upload.,FEATURE,LOW
+Implement integration with search for better workflows.,FEATURE,LOW
+Add a profile button on the main screen.,FEATURE,LOW
+Add a upload button on the main screen.,FEATURE,MEDIUM
+Update the README to include instructions for report.,DOCUMENTATION,LOW
+Optimize the database query for search retrieval.,PERFORMANCE,MEDIUM
+Add a dashboard button on the main screen.,FEATURE,MEDIUM
+Create a troubleshooting guide for export.,DOCUMENTATION,MEDIUM
+Question about the import implementation.,OTHER,MEDIUM
+It would be great if users could dashboard.,FEATURE,HIGH
+Users can bypass the profile authentication step.,SECURITY,HIGH
+General feedback regarding the dashboard workflow.,OTHER,LOW
+Optimize the database query for login retrieval.,PERFORMANCE,MEDIUM
+The profile page takes over 10 seconds to load.,PERFORMANCE,HIGH
+Add a profile button on the main screen.,FEATURE,HIGH
+Miscellaneous updates to the export repo.,OTHER,LOW
+Please add a new report to the dashboard.,FEATURE,MEDIUM
+Vulnerability found in the login dependency.,SECURITY,HIGH
+Optimize the database query for settings retrieval.,PERFORMANCE,HIGH
+The search page takes over 10 seconds to load.,PERFORMANCE,MEDIUM
+Please review the settings deployment plan.,OTHER,MEDIUM
+The login feature crashes when I try to upload.,BUG,HIGH
+Optimize the database query for profile retrieval.,PERFORMANCE,MEDIUM
+The login animation is jittery.,UI,MEDIUM
+The settings modal is misaligned on mobile devices.,UI,LOW
+The export page takes over 10 seconds to load.,PERFORMANCE,HIGH
+SQL injection is possible in the search search field.,SECURITY,HIGH
+login button does not respond when clicked.,BUG,CRITICAL
+Vulnerability found in the settings dependency.,SECURITY,HIGH
+Memory leak suspected in the search background job.,PERFORMANCE,MEDIUM
+The settings animation is jittery.,UI,MEDIUM
+export button does not respond when clicked.,BUG,MEDIUM
+General feedback regarding the import workflow.,OTHER,LOW
+Add a tutorial on how to use the export feature.,DOCUMENTATION,MEDIUM
+Need assistance with login configuration.,OTHER,LOW
+The payment feature crashes when I try to dashboard.,BUG,HIGH
+Users can bypass the report authentication step.,SECURITY,HIGH
+Question about the export implementation.,OTHER,MEDIUM
+Images on the payment screen are too large and slow down the app.,PERFORMANCE,HIGH
+Users cannot upload because of an exception in the import module.,BUG,MEDIUM
+Optimize the database query for dashboard retrieval.,PERFORMANCE,MEDIUM
+Add a tutorial on how to use the import feature.,DOCUMENTATION,MEDIUM
+Ensure import is properly sanitized before rendering.,SECURITY,CRITICAL
+Add a tutorial on how to use the profile feature.,DOCUMENTATION,LOW
+Add a payment button on the main screen.,FEATURE,MEDIUM
+Tokens are exposed in the login logs.,SECURITY,HIGH
+Memory leak suspected in the payment background job.,PERFORMANCE,HIGH
+Please review the report deployment plan.,OTHER,MEDIUM
+Please add a new search to the dashboard.,FEATURE,MEDIUM
+SQL injection is possible in the search search field.,SECURITY,CRITICAL
+We need a way to export upload to PDF.,FEATURE,MEDIUM
+dashboard button does not respond when clicked.,BUG,MEDIUM
+Implement integration with report for better workflows.,FEATURE,LOW
+Miscellaneous updates to the search repo.,OTHER,LOW
+The settings feature crashes when I try to import.,BUG,MEDIUM
+Implement integration with upload for better workflows.,FEATURE,CRITICAL
+Text is overlapping in the search component.,UI,LOW
+Please add a new profile to the dashboard.,FEATURE,MEDIUM
+Please add a new payment to the dashboard.,FEATURE,HIGH
+We need a way to export import to PDF.,FEATURE,MEDIUM
+Improve the contrast of the import text for accessibility.,UI,LOW
+Please add a new payment to the dashboard.,FEATURE,HIGH
+Users can bypass the import authentication step.,SECURITY,CRITICAL
+High CPU usage observed when running login.,PERFORMANCE,HIGH
+The search animation is jittery.,UI,LOW
+Please add a new import to the dashboard.,FEATURE,LOW
+Miscellaneous updates to the search repo.,OTHER,CRITICAL
+Users cannot search because of an exception in the dashboard module.,BUG,MEDIUM
+We need a way to export login to PDF.,FEATURE,HIGH
+We need a way to export import to PDF.,FEATURE,MEDIUM
+High CPU usage observed when running settings.,PERFORMANCE,MEDIUM
+Tokens are exposed in the import logs.,SECURITY,MEDIUM
+Please review the payment deployment plan.,OTHER,MEDIUM
